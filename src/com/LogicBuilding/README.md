@@ -3,7 +3,6 @@
 ## Warm-up Programs
 - Write a program to add two numbers. [Solution]( https://www.mysirg.com/programming-examples/c-programs/)
 - Write a program to calculate the area of a circle. [Solution]( https://www.mysirg.com/programming-examples/c-programs/)
-- Write a program to print your name at the center of the screen.
 - Write a program which takes input as integers only that is restricted other characters from input. [Solution]( https://www.mysirg.com/programming-examples/c-programs/)
 
 ## Elementary Tricky Programs
