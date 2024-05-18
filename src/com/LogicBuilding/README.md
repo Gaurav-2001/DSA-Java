@@ -11,7 +11,6 @@
 - Write a program to swap two numbers without using a third variable. [Solution]( https://www.mysirg.com/programming-examples/c-programs/)
 - Write a program to check whether a number is even or odd without using the modulus (%) operator. [Solution]( https://www.mysirg.com/programming-examples/c-programs/)
 - Write a program to check even or odd without using modulus and bitwise operator. [Solution]( https://www.mysirg.com/programming-examples/c-programs/)
-- C Program to move your name with keystrokes.
 
 ## Programs on Decision Control (if, if else, switch)
 - Write a program to check whether a given number is even or odd. [Solution]( https://www.mysirg.com/programming-examples/c-programs/)
