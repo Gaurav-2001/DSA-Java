@@ -1,4 +1,4 @@
-package com.PracticeJava;
+package com.LogicBuilding.ProgramsOnLoops;
 
 import java.util.Scanner;
 
