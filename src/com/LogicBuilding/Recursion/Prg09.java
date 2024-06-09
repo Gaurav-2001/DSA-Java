@@ -1,9 +1,12 @@
 package com.LogicBuilding.Recursion;
-// Approach 1: Reverse a number using recursion.
 
-public class Prg07 {
+public class Prg09 {
     public static void main(String[] args) {
-        System.out.print(reverse(-1234));
+        int n = 1221;
+        System.out.print(palindrom(n));
+    }
+    private static boolean palindrom(int n){
+        return (n== reverse(n));
     }
     private static int reverse(int n){
         if (n<0)
