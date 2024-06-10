@@ -1,7 +1,9 @@
 package com.LogicBuilding.Algo;
 
 import java.util.Arrays;
-
+// in insertion sort we are basically sorting in parts
+//example: [5,4,2,3,1]
+//first sort till index 0,1 then 0,1,2 then 0,1,2,3 and so on
 public class InsertionSort {
     public static void main(String[] args) {
         int[] arr = {-5,3,2,4,1,0};

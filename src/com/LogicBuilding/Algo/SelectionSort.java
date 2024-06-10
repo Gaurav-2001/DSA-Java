@@ -1,8 +1,9 @@
 package com.LogicBuilding.Algo;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
+/* here first find ot the max element then place it in the last position
+* */
 public class SelectionSort {
     public static void main(String[] args) {
         int[] arr = {4,-5,0,1,2,3};
